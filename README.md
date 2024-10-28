@@ -22,7 +22,7 @@ Speeds up service and process monitoring for incident response and post-exploita
 # How to Install
 1: Clone this repository:
 ```
-git clone https://github.com/yourusername/service-inspector.git
+git clone https://github.com/blackmummya/Service_Inspector.git
 ```
 2: Navigate to the directory:
 ```
