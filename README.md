@@ -26,7 +26,7 @@ git clone https://github.com/blackmummya/Service_Inspector.git
 ```
 2: Navigate to the directory:
 ```
-cd service-inspector
+cd service_inspector
 ```
 3: Compile the script:
 ```
