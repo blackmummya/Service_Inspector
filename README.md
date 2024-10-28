@@ -11,7 +11,7 @@ Automatically retrieves the PID of the selected service for deeper analysis.
 * 🌐 Network Connection Mapping
 Monitors network connections tied to the service by analyzing open connections based on the PID.
 
-*⚡ Fast & Automated
+* ⚡ Fast & Automated
 Speeds up service and process monitoring for incident response and post-exploitation analysis.
 
 # 📂 Installation & Usage
